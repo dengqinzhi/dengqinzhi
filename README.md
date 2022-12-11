@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm T</h1>
 <h3 align="center">Qinzhi.CC</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢+迎+光+临+邓+先+生+的+博+客;www.qinzhi.cc)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dengqinzhi&label=Profile%20views&color=0e75b6&style=flat" alt="dengqinzhi" /> </p>
 
@@ -41,3 +41,4 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢+迎+光+临+邓+先+生+的+博+客;www.qinzhi.cc)](https://git.io/typing-svg)
