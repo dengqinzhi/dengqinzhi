@@ -2,9 +2,6 @@
 <h3 align="center">Qinzhi.CC</h3>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dengqinzhi&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dengqinzhi&label=Profile%20views&color=0e75b6&style=flat" alt="dengqinzhi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dengqinzhi" target="blank"><img src="https://img.shields.io/twitter/follow/dengqinzhi?logo=twitter&style=for-the-badge" alt="dengqinzhi" /></a> </p>
