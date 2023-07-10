@@ -2,12 +2,6 @@
 <h3 align="center">Qinzhi.CC</h3>
 
 
-
-<p align="left">
-<a href="https://twitter.com/dengqinzhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dengqinzhi" height="30" width="40" /></a>
-</p>
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dengqinzhi&theme=vue&locale=zh&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
