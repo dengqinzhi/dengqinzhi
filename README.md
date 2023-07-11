@@ -19,3 +19,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F722D6&width=435&lines=%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E9%82%93%E5%85%88%E7%94%9F%E7%9A%84%E5%8D%9A%E5%AE%A2;https%3A%2F%2Fqinzhi.cc)](https://git.io/typing-svg)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengqinzhi)](https://github.com/anuraghazra/github-readme-stats)
